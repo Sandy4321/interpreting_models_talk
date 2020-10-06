@@ -1,7 +1,7 @@
 # template
 Simple template for new projects
 
-# Create a Local Environment 
+# Create a Local Environment
 
 ```python
 python3.7 -m virtualenv ENV_NAME
@@ -10,14 +10,14 @@ pip install -r requirements.txt
 ```
 
 
-# Requirements 
+# Requirements
 
 ```python
-pip freeze > requirements.txt 
+pip freeze > requirements.txt
 ```
 
 
-# Pre-commit hooks 
+# Pre-commit hooks
 
 ```python
 pre-commit install
